@@ -1,15 +1,17 @@
-j,csdchd.gsdgh.dnbvdbg;./;/,.l
-bbdkajfdv
-jlgjnvl
-knvk,
+-------first time---------
+#clone repository to the dekstop
+- git clone
+# add files
+- git add . (to add all the files)
+- git add  filename (specific file)
+# commit the files to repository
+-git commit -m"message"
 
-kaldv;k,
-bmk
+# push the files to repository
+-git push
 
-javlkms;b
-ankdm
 
-;vjknl
-hdjewh
-jgckwg
-dbgvvj
+----for changes----
+#pull command
+-git pull
+then all the steps in same order.
